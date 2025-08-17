@@ -21,6 +21,6 @@ HackerGPT is an Offensive Security Companion that's used by a human operator to 
 
 Our lite version is a publicly available OSINT and Discovery tool. It can be accessed here: https://hackergpt.app
 
-Lite version includes some passive scanning techniques and can help you fingerprint hosts, find information on dark web and in data leaks, provide suggestions on offensive security techniques and more.. Lite requires no technical skills and let you learn cyber-security in a fun and interactive way. Lite version doesn't perform or suggest exploits and is designed to cause no damage even if the user desires to.
+Lite version includes some passive scanning techniques and can help you fingerprint hosts, find information on dark web and in data leaks, provide suggestions on offensive security techniques and more.. Lite requires no technical skills and let you learn cyber-security in a fun and interactive way.
 
-Try it out and let us know what you think: info@whitehacklabs.com
+Try it out and let us know what you think: support@hackergpt.app
